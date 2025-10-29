@@ -1,5 +1,4 @@
 # Backend_Nodejs
-# Backend_Nodejs
 # URL Shortener 🔗
 
 A simple URL shortener built using **Node.js**, **Express**, and **MongoDB** (local setup).  
