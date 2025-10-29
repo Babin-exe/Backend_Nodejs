@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        .signup {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-width: 100%;
+            background-color: pink;
+            height: 50vh;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="Login">
+        <h1>This is the Login form</h1>
+        <form action="/user/login" method="POST">
+            <input type="email" required name="email" id="email" placeholder="email"><br> <br>
+            <input type="password" required minlength="8" name="password" id="password" placeholder="password"><br><br>
+            <button>Login</button>
+        </form>
+    </div>
+</body>
+
+</html>
