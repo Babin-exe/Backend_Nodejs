@@ -23,5 +23,5 @@ This project shortens long URLs and redirects users to the original links.
 ## ⚙️ Setup Instructions
 
 1. Clone this project:
-   git clone https://github.com/Babin-exe/UrlShortener.git
+   git clone https://github.com/Babin-exe/Backend_Nodejs/UrlShortener.git
    cd UrlShortener
